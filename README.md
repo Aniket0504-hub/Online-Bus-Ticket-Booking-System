@@ -60,7 +60,7 @@ Update src/main/resources/application.properties:spring.datasource.url=jdbc:mysq
 spring.datasource.username=your_mysql_username
 spring.datasource.password=your_mysql_password
 
-git clone https://github.com/your-username/online-bus-ticket-booking.git
+git clone https://github.com/Aniket0504-hub/Online-Bus-Ticket-Booking-System.git
 cd online-bus-ticket-booking
 <br>
 Create the database:CREATE DATABASE bus_booking_db;
