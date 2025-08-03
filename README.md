@@ -78,7 +78,7 @@ npm start
 
 ##
 4. Access the App
-React Frontend: http://localhost:3000
+React Frontend:  http://localhost:5173/
 
 Spring Boot API: http://localhost:8080
 
