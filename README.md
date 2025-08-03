@@ -50,8 +50,7 @@ The **Online Bus Ticket Booking System** simplifies the process of bus reservati
 ## 🚀 How to Run This Project
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/online-bus-ticket-booking.git
-cd online-bus-ticket-booking
+git clone https://github.com/Aniket0504-hub/Online-Bus-Ticket-Booking-System.git
 
 <br>
 ## 2. Backend Setup (Spring Boot)
